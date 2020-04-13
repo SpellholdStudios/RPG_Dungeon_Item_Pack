@@ -1,0 +1,104 @@
+Belt 09 (Replaces Girdle of Fortitude)
+
+NAME UN: Belt
+Unidentified Description:  A belt or girdle is commonly used to hold up pants or protect the wearer's midsection in battle.
+Identified Description:  This girdle greatly increases the wearer's constitution.  King Violos used it when leading an expedition against marsh trolls.  He'd been severely sickened the past winter and was no longer the healthy man he once was.  The belt gave extra years to his life and inspired his men to renew their confidence in their king once more.
+
+STATISTICS
+
+Permanently sets constitution to 18.
+Identified Name:  Girdle of Fortitude
+
+Chan19 (Replaces the chainmail that drops off the Shade Lord's Apprentice)
+
+Name UN:  Chainmail
+Unidentified Description:  Chainmail consists of a series of interlocking chains.  This particular suit appears to have been made with magical assistance.
+Identified Description:  This once belonged to a guy named Patrick.  He died.  You're the owner now.
+
+STATISTICS
+
+AC:  0
+Change Alignment to Chaotic Good
+Sets MR to 35%
+Immune to +2 weapons and less
+Identified Name:  Patrick's Chain Mail
+
+clck26 (Replaces the Cloak of Mirroring)
+
+NAME UN:  Cloak
+Unidentified Description:  This is a cloak that a person can wear.  This one appears to be magical.
+Identified Description:  That's right.  The gods discovered that people were somehow cheating in real life, so they decided to put a stop to it.
+
+STATISTICS
+
++1 AC
++25 MR
+Identified Name:  Cloak of Cheesing
+
+hamm09 (Replaces Crom Faeyr)
+NAME UN:  Warhammer
+Unidentified Description:  A warhammer is just that.  A hammer that is used to bash things.
+Identified Description:  Nobody ever reads this anyway, so perhaps I should use this space to talk about time travel.
+
+STATISTICS
+
+This is a basic +4 hammer.  Use it wisely!
+Randomly summons a creature on hits.  5% chance.
+Identified Name:  Hammer of Helping +4
+
+plat18 (Replaces the red dragon armor)
+
+NAME UN:  Red Dragon Armor
+Unidentified Description:  This armor was forged from the scales of a red dragon.
+Identified Description:  This armor was forged from a red dragon.  As dragons tend to be very protective of others of their species, you suspect that they won't like you much after this.  Also, since most blacksmiths don't want to be involved in the trade of dragonscale, this armor is very rare.
+
+STATISTICS
+
+AC:  -1
++50% Fire Resistance
+Identified Name:  Red Dragon Scale
+
+plat20 (Replaces Blue Dragon Armor)
+
+NAME UN:  Blue Dragon Plate
+Unidentified Description:  This item is armor made out of the scales of a blue dragon.
+Identified Description:  This item is made out of dragonscale.  Enjoy!
+
+STATISTICS
+
+AC:  -1
++50% Lightning Resistance
+Requires 15 str to use
+Identified Name:  Blue Dragon Plate
+
+ring20 (Replaces the Ring of Energy, for sale at Ribald's store)
+
+Description:This ring heals its user and makes him harder to hit in combat.
+
+STATISTICS
+
+Regenerate 1 hp/round
+Sets Dex to 21
+Name:  Ring of Power
+
+ring45 (Replaces Anomen's Wedding Ring)
+
+Description:This ring was given to you by your love, Anomen as a symbol of his undying devotion to you.  It radiates the warmth of his love continuously.
+
+STATISTICS
+
+Charisma Bonus:  +2
+Immunity to cold
+Name:  Anomen's Ring
+
+sw1h51 (Replaces Celestial Fury)
+
+NAME UN:  Katana
+Undentified Description:Oh, wow, a normal katana.  What a joke!
+Identified Description:Yes, this once belonged to the comic book hero Ziggy.  No, actually, it's just an example of how hard it is to make a worthwhile katana.
+
+STATISTICS
+
+Permanent Free Action on wielder.
+2% chance of holding monsters.
+Identified Name:  Ziggi's Katana

@@ -1,0 +1,150 @@
+// Version 2.0
+
+BACKUP ~RItemPack/backup~
+AUTHOR ~Rastor <rastor@rpgdungeon.net>~
+
+LANGUAGE ~English~ ~english~ ~RItemPack/english/setup.tra~
+
+BEGIN @0
+
+ACTION_IF FILE_EXISTS ~override/r#GirdleFortitude.rpgd~
+ THEN BEGIN
+   FAIL @1
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#GirdleFortitude.rpgd~
+ END
+
+COPY ~RItemPack/belt09.itm~ ~override/belt09.itm~         
+ SAY NAME1 @2 
+ SAY NAME2 @3 
+ SAY UNIDENTIFIED_DESC @4 
+ SAY DESC @5
+
+BEGIN @6
+
+ACTION_IF FILE_EXISTS ~override/r#PatrickChainmail.rpgd~
+ THEN BEGIN
+  FAIL @7
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#PatrickChainmail.rpgd~
+ END
+
+COPY ~RItemPack/CHAN19.ITM~ ~override/CHAN19.ITM~         
+ SAY NAME1 @8 
+ SAY NAME2 @9 
+ SAY UNIDENTIFIED_DESC @10 
+ SAY DESC @11
+
+BEGIN @12
+
+ACTION_IF FILE_EXISTS ~override/r#CloakMirroring.rpgd~
+ THEN BEGIN
+  FAIL @13
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#CloakMirroring.rpgd~
+ END
+
+COPY ~RItemPack/CLCK26.ITM~ ~override/CLCK26.ITM~         
+ SAY NAME1 @14 
+ SAY NAME2 @15 
+ SAY UNIDENTIFIED_DESC @16 
+ SAY DESC @17
+
+BEGIN @18
+
+ACTION_IF FILE_EXISTS ~override/r#Crom.rpgd~
+ THEN BEGIN
+  FAIL @19
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#Crom.rpgd~
+ END
+
+COPY ~RItemPack/HAMM09.ITM~ ~override/HAMM09.ITM~         
+ SAY NAME1 @20 
+ SAY NAME2 @21 
+ SAY UNIDENTIFIED_DESC @22 
+ SAY DESC @23 
+
+BEGIN @24
+
+ACTION_IF FILE_EXISTS ~override/r#FixedDragonPlate.rpgd~
+ THEN BEGIN
+  FAIL @25
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#FixedDragonPlate.rpgd~
+ END
+
+COPY ~RItemPack/PLAT18.ITM~ ~override/PLAT18.ITM~         
+ SAY NAME1 @26 
+ SAY NAME2 @27 
+ SAY UNIDENTIFIED_DESC @28 
+ SAY DESC @29 
+
+COPY ~RItemPack/PLAT20.ITM~ ~override/PLAT20.ITM~         
+ SAY NAME1 @30 
+ SAY NAME2 @30 
+ SAY UNIDENTIFIED_DESC @31 
+ SAY DESC @32
+
+BEGIN @33
+
+ACTION_IF FILE_EXISTS ~override/r#RingOfPower.rpgd~
+ THEN BEGIN
+  FAIL @25
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#RingOfPower.rpgd~
+ END
+
+COPY ~RItemPack/RING20.ITM~ ~override/r#ring20.ITM~         
+ SAY NAME1 @34 
+ SAY NAME2 @33 
+ SAY UNIDENTIFIED_DESC @34 
+ SAY DESC @35
+
+COPY_EXISTING ~ribald.sto~ ~override~
+ ADD_STORE_ITEM ~r#ring20~ #10 #0 #0 ~IDENTIFIED~ #1
+
+BEGIN @36
+
+ACTION_IF FILE_EXISTS ~override/r#AnomenRing.rpgd~
+ THEN BEGIN
+  FAIL @25
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#AnomenRing.rpgd~
+ END
+
+COPY ~RItemPack/RING45.ITM~ ~override/RING45.ITM~       
+ SAY NAME1 @34 
+ SAY NAME2 @37 
+ SAY UNIDENTIFIED_DESC @34 
+ SAY DESC @38
+
+BEGIN @39
+
+ACTION_IF FILE_EXISTS ~override/r#WeakenedCF.rpgd~
+ THEN BEGIN
+  FAIL @25
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#WeakenedCF.rpgd~
+ END
+
+COPY ~RItemPack/SW1H51.ITM~ ~override/SW1H51.ITM~         
+ SAY NAME1 @40 
+ SAY NAME2 @41 
+ SAY UNIDENTIFIED_DESC @42 
+ SAY DESC @43
+
+BEGIN @44
+
+ACTION_IF FILE_EXISTS ~override/r#RingWizardry.rpgd~
+ THEN BEGIN
+  FAIL @25
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#RingWizardry.rpgd~
+ END
+
+COPY ~RItemPack/r#RING08.ITM~ ~override~
+ SAY NAME1 @45
+ SAY NAME2 @46
+ SAY DESC @47
+

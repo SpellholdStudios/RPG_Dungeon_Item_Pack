@@ -1,0 +1,140 @@
+@0    = ~Enhanced Girdle of Fortitude~
+@1    = ~The enhanced Girdle of Fortitude is already installed on this system.~
+@2    = ~Girdle~
+@3    = ~Girdle of Fortitude~
+@4    = ~Girdles are generally similar to belts.  Unlike belts, girdles are not used to hold up pants and dungarees, but to carry pouches, scabbards, and the like.  
+
+STATISTICS:
+
+Weight: 2~
+@5    = ~This girdle greatly increases the wearer's constitution. King Violos used it when leading an expedition against marsh trolls.  He'd been severely sickened the past winter and was no longer the healthy man he once was.  The belt gave extra years to his life and inspired his men to renew their confidence in their king once more.
+
+STATISTICS
+
+Weight: 2
+Permanently sets constitution to 18~
+@6    = ~Patrick's Chainmail~
+@7    = ~Patrick's Chainmail is already installed on this system.~
+@8    = ~Chainmail~
+@9    = ~Patrick's Chain Mail~
+@10   = ~Chainmail consists of a series of interlocking chains. This particular suit appears to have been made with magical assistance.~
+@11   = ~This once belonged to a guy named Patrick. He died. You're the owner now.
+
+STATISTICS
+
+AC: 0
+Weight: 15
+Special: Changes Alignment to Chaotic Good, Sets MR to 35%, Immune to +2 weapons and less
+
+Not useable by:
+ Mage
+ Thief
+ Druid~
+@12   = ~Weakened Cloak of Mirroring~
+@13   = ~The weakened Cloak of Mirroring is already installed on this system.~
+@14   = ~Cloak~
+@15   = ~Cloak of Cheesing~
+@16   = ~This is a cloak that a person can wear. This one appears to be magical.~
+@17   = ~That's right. The gods discovered that people were somehow cheating in real life, so they decided to put a stop to it.
+
+STATISTICS
+
+Weight: 1
++1 AC
++25 MR~
+@18   = ~Replaced Crom Faeyr~
+@19   = ~This component is currently installed.~
+@20   = ~Warhammer~
+@21   = ~Hammer of Helping +4~
+@22   = ~A warhammer is just that. A hammer that is used to bash things.~
+@23   = ~Nobody ever reads this anyway, so perhaps I should use this space to talk about time travel.
+
+STATISTICS
+
+Weight: 14
+This is a basic +4 hammer. Use it wisely!
+Randomly summons a creature on hits. 5% chance.
+
+Not useable by:
+ Mage
+ Druid
+ Thief~
+@24   = ~Fixed Dragon Plate Armor~
+@25   = ~This component is already installed.~
+@26   = ~Red Dragon Armor~
+@27   = ~Red Dragon Scale~
+@28   = ~This armor was forged from the scales of a red dragon.~
+@29   = ~This armor was forged from a red dragon. As dragons tend to be very protective of others of their species, you suspect that they won't like you much after this. Also, since most blacksmiths don't want to be involved in the trade of dragonscale, this armor is very rare.
+
+STATISTICS
+
+AC: -1
+Weight: 30
+Special: +50% Fire Resistance
+
+Not useable by:
+ Mage
+ Druid
+ Thief~
+@30   = ~Blue Dragon Plate~
+@31   = ~This item is armor made out of the scales of a blue dragon.~
+@32   = ~This item is made out of dragonscale. Enjoy!
+
+STATISTICS
+
+AC: -1
+Weight: 30
+Special: +50% Lightning Resistance
+Requires 15 str to use
+
+Not useable by:
+ Bard
+ Mage
+ Thief
+ Druid~
+@33   = ~Ring of Power~
+@34   = ~<No Text>~
+@35   = ~This ring heals its user and makes him harder to hit in combat.
+
+STATISTICS
+
+Regenerate 1 hp/round
+Sets Dex to 21~
+@36   = ~Improved Anomen's Ring~
+@37   = ~Anomen's Ring~
+@38   = ~This ring was given to you by your love, Anomen as a symbol of his undying devotion to you. It radiates the warmth of his love continuously.
+
+STATISTICS
+
+Charisma Bonus:  +5
+Immunity to cold~
+@39   = ~Weakened Celestial Fury~
+@40   = ~Katana~
+@41   = ~Ziggi's Katana~
+@42   = ~Oh, wow, a normal katana. What a joke!~
+@43   = ~Yes, this once belonged to the comic book hero Ziggy. No, actually, it's just an example of how hard it is to make a worthwhile katana.
+
+STATISTICS
+
+Damage: 1d10+3
+THAC0: +4
+Weight: 11
+Permanent Free Action on wielder
+2% chance of holding monsters
+
+Not useable by:
+ Mage
+ Cleric
+ Druid~
+@44   = ~BG1 Ring of Wizardry~
+@45   = ~Ring~
+@46   = ~Ring of Wizardry~
+@47   = ~Ring of Wizardry: 'Evermemory'
+Long ago, a grand wizard from Amn was rumored to have defied Mystra's limitations on the magical arts. Legends spoke of this wizard being able to cast spells without the limitation of memorization. In the end it was found that his powers stemmed from the several magical rings that he had made for himself. His proclaimed "everlasting memory" was a hoax, though his rings continue to be one of the most sought after items in the Realms.
+
+STATISTICS:
+
+Spells: Doubles the amount of 1st level spells a mage can memorize
+
+Only usable by:
+ Mage (single-, dual-, and multi-classed)~
