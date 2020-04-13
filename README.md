@@ -15,7 +15,7 @@ Baldur's Gate Trilogy and EET<h3>
 **Mod Website:** <a href="http://www.shsforums.net/forum/127-mod-resurrections/">Spellhold Studios</a>  
 
 
-[Download the mod at Spellhold Studios](<br>
+[Download the mod at Spellhold Studios](http://www.shsforums.net/files/file/1262-rpg-item-pack/)<br>
 
 &nbsp;
 
